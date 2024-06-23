@@ -1,16 +1,11 @@
 import pandas as pd
-from tika import parser
-import chardet
 import datetime
-import requests
-import random
 import os
-import string
 import concurrent.futures
-from playwright.sync_api import sync_playwright
+from selenium import webdriver
+from time import sleep
 def download_pdf(lnk):
-    from selenium import webdriver
-    from time import sleep
+
     options = webdriver.ChromeOptions()
 
     download_folder = os.path.abspath("./pdfs/")
