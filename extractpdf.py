@@ -32,34 +32,39 @@ def main():
     pdf_dir = './pdfs/'
     df = pd.read_excel('he-review-letters.xlsx', )
     df['REVIEWED'] = pd.to_datetime(df['REVIEWED']).dt.date
-    df = df[(df.TYPE == 'INITIAL DRAFT') & (df.REVIEWED > datetime.date(year=2020, month=1, day=1))]
-    email_dict = {col: [] for col in df['JURISDICTION'].unique()}
-    for juris,url in zip(df['JURISDICTION'],df['LINK TO REVIEW LETTER']):
+    df1 = df[(df.TYPE == 'INITIAL DRAFT') & (df.REVIEWED > datetime.date(year=2020, month=1, day=1))]
+    df2 = df[(df.TYPE == 'ADOPTED')][['JURISDICTION','REVIEWED']]
+    df2 = df2.groupby('JURISDICTION').agg({'REVIEWED':'max'}).reset_index()
+
+    email_dict= {'JURISDICTION':[],'EMAIL':[],'ID_DATE':[],'AD_DATE':[]}
+    for juris,url,date in zip(df1['JURISDICTION'],df1['LINK TO REVIEW LETTER'],df1['REVIEWED']):
         pdf_path = pdf_dir+ url.split("/")[-1]
         try:
             emails = extract_emails_from_pdf(pdf_path)
         except pymupdf.FileNotFoundError: #PDF not exist
-            try: # Downloading again the pdf file
-                print(f"{pdf_path} doesn't exist")
-                print(f"Downloading: {pdf_path}")
-                download_pdf(url)
-                emails = extract_emails_from_pdf(pdf_path)
-            except: #Invalid pdf URL
-                print("Status: Invalid url")
-                continue
+            # try: # Downloading again the pdf file
+            #     print(f"{pdf_path} doesn't exist")
+            #     print(f"Downloading: {pdf_path}")
+            #     download_pdf(url)
+            #     emails = extract_emails_from_pdf(pdf_path)
+            # except: #Invalid pdf URL
+            #     print("Status: Invalid url")
+            continue
         emails = [email for email in emails if email != 'sitesinventory@hcd.ca.gov']
-        if len(emails) == 1:
-            email_dict[juris].append(emails[0])
-        else:
-            email_dict[juris].extend(emails)
+        adopted_date = df2[df2.JURISDICTION == juris].REVIEWED
+        for email in emails:
+            email_dict['EMAIL'].append(email)
+            email_dict['JURISDICTION'].append(juris)
+            email_dict['ID_DATE'].append(date)
+            if adopted_date.empty:
+                email_dict['AD_DATE'].append(date)
+            else:
+                email_dict['AD_DATE'].append(adopted_date.values[0])
+    email_dict =pd.DataFrame.from_dict(email_dict)
+    email_dict.to_csv('data.csv')
 
-    with open('data.json', 'w') as json_file:
-        json.dump(email_dict, json_file)
 
-    with open('data.json', 'r') as json_file:
-        loaded_data = json.load(json_file)
-
-    print(loaded_data)
+    # print(loaded_data)
 
 if __name__ == "__main__":
     main()
