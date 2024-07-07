@@ -1,208 +1,204 @@
-,JURISDICTION,EMAIL,ID_DATE,AD_DATE
-0,ALAMEDA,Halpern@hcd.ca.gov,2022-08-25,2022-12-20
-1,ALAMEDA COUNTY,Jose.Ayala@hcd.ca.gov,2024-01-04,2015-05-21
-2,ALBANY,Claire.Sullivan-Halpern@hcd.ca.gov,2022-12-09,2023-09-08
-3,BERKELEY,Jose.Ayala@hcd.ca.gov,2022-11-08,2023-02-28
-4,DUBLIN,Jose.Ayala@hcd.ca.gov,2022-08-29,2024-01-19
-5,EMERYVILLE,Claire.Sullivan-Halpern@hcd.ca.gov,2022-10-31,2023-02-03
-6,FREMONT,Shawn.Danino@hcd.ca.gov,2022-11-21,2023-03-22
-7,HAYWARD,Halpern@hcd.ca.gov,2022-11-28,2023-07-27
-8,LIVERMORE,shawn.danino@hcd.ca.gov,2022-10-20,2023-03-24
-9,NEWARK,shawn.danino@hcd.ca.gov,2023-07-12,2023-12-21
-10,OAKLAND,shawn.danino@hcd.ca.gov,2022-09-28,2023-02-17
-11,PIEDMONT,shawn.danino@hcd.ca.gov,2023-02-16,2023-11-09
-12,PLEASANTON,Jose.Ayala@hcd.ca.gov,2022-11-14,2023-08-25
-13,SAN LEANDRO,Claire.Sullivan-Halpern@hcd.ca.gov,2022-11-14,2023-02-02
-14,UNION CITY,shawn.danino@hcd.ca.gov,2022-10-26,2023-05-30
-15,ALPINE COUNTY,jose.jauregui@hcd.ca.gov,2022-11-02,2017-04-05
-16,AMADOR CITY,Jose.Ayala@hcd.ca.gov,2023-05-08,2023-05-08
-17,AMADOR COUNTY,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-02-20
-18,IONE,Jose.Ayala@hcd.ca.gov,2023-05-08,2015-06-23
-19,JACKSON,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-05-20
-20,PLYMOUTH,Jose.Ayala@hcd.ca.gov,2023-05-08,2016-05-31
-21,SUTTER CREEK,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-03-20
-22,BIGGS,Jose.Ayala@hcd.ca.gov,2022-11-18,2014-08-21
-23,BUTTE COUNTY,Jose.Ayala@hcd.ca.gov,2022-10-19,2023-02-22
-24,CHICO,Jose.Ayala@hcd.ca.gov,2022-12-05,2023-11-06
-25,OROVILLE,Jose.Ayala@hcd.ca.gov,2022-10-25,2023-05-03
-26,ANTIOCH,Alex.Contreras@hcd.ca.gov,2022-09-29,2023-10-12
-27,BRENTWOOD,Jamillah.Williams@hcd.ca.gov,2023-01-13,2024-04-12
-28,CLAYTON,Jamillah.Williams@hcd.ca.gov,2022-10-12,2024-05-14
-29,CONCORD,Jamillah.Williams@hcd.ca.gov,2022-11-14,2023-10-20
-30,CONTRA COSTA COUNTY,Jamillah.Williams@hcd.ca.gov,2023-04-21,2024-01-22
-31,DANVILLE,Connor.Finney@hcd.ca.gov,2022-11-10,2024-04-09
-32,EL CERRITO,paul.mcdougall@hcd.ca.gov,2022-12-12,2023-08-22
-33,HERCULES,Connor.Finney@hcd.ca.gov,2022-11-07,2015-04-22
-34,LAFAYETTE,Connor.Finney@hcd.ca.gov,2022-09-29,2023-03-29
-35,MORAGA,Jamillah.Williams@hcd.ca.gov,2022-11-10,2023-09-14
-36,OAKLEY,Melinda.coy@hcd.ca.gov,2022-11-29,2023-05-24
-37,ORINDA,Jamillah.Williams@hcd.ca.gov,2022-08-12,2023-03-30
-38,PINOLE,Connor.Finney@hcd.ca.gov,2023-03-02,2023-07-20
-39,PITTSBURG,Sohab.Mehmood@hcd.ca.gov,2023-08-03,2015-05-18
-40,PLEASANT HILL,Jamillah.Williams@hcd.ca.gov,2023-03-22,2023-11-22
-41,RICHMOND,Connor.Finney@hcd.ca.gov,2023-03-09,2023-10-02
-42,SAN PABLO,jose.jauregui@hcd.ca.gov,2022-12-27,2024-05-20
-43,SAN RAMON,Connor.Finney@hcd.ca.gov,2022-10-18,2023-02-27
-44,WALNUT CREEK,Connor.Finney@hcd.ca.gov,2022-12-05,2023-10-24
-45,CRESCENT CITY,Connor.Finney@hcd.ca.gov,2023-03-22,2023-11-17
-46,DEL NORTE COUNTY,Colin.Cross@hcd.ca.gov,2022-07-27,2023-02-24
-47,CLOVIS,Jose.Ayala@hcd.ca.gov,2023-08-14,2016-07-22
-48,COALINGA,brandon.yung@hcd.ca.gov,2023-09-12,2016-07-22
-49,FIREBAUGH,Laurissa.wells@hcd.ca.gov,2024-01-29,2016-06-01
-50,FOWLER,Laurissa.Wells@hcd.ca.gov,2023-12-26,2016-07-22
-51,FRESNO,Jose.Ayala@hcd.ca.gov,2024-02-01,2017-07-07
-52,FRESNO COUNTY,Jose.Ayala@hcd.ca.gov,2024-03-15,2016-07-22
-53,HURON,Melissa.Vasquez@hcd.ca.gov,2024-01-18,2016-07-22
-54,KERMAN,brandon.yung@hcd.ca.gov,2023-09-29,2016-07-25
-55,KINGSBURG,brandon.yung@hcd.ca.gov,2023-08-30,2016-07-25
-56,MENDOTA,brandon.yung@hcd.ca.gov,2023-12-26,2016-07-22
-57,ORANGE COVE,melissa.vasquez@hcd.ca.gov,2023-12-22,2022-09-19
-58,PARLIER,Melissa.Vasquez@hcd.ca.gov,2024-02-09,2016-07-22
-59,REEDLEY,brandon.yung@hcd.ca.gov,2023-08-23,2024-04-26
-60,SAN JOAQUIN,melissa.vasquez@hcd.ca.gov,2023-11-02,2024-05-21
-61,SANGER,Laurissa.Wells@hcd.ca.gov,2024-01-04,2016-07-22
-62,SELMA,Laurissa.Wells@hcd.ca.gov,2024-03-27,2016-07-22
-63,BLUE LAKE,Mashal.Ayobi@hcd.ca.gov,2022-08-29,2010-02-04
-64,WESTMORLAND,anthony.errichetto@hcd.ca.gov,2022-12-22,2019-05-24
-65,ARVIN,jose.jauregui@hcd.ca.gov,2023-10-13,2018-04-16
-66,ARVIN,ADU@hcd.ca.gov,2023-10-13,2018-04-16
-67,BAKERSFIELD,shawn.danino@hcd.ca.gov,2023-09-20,2016-02-16
-68,KERN COUNTY,Reid.Miller@hcd.ca.gov,2024-03-06,2023-07-13
-69,MCFARLAND,paul.mcdougall@hcd.ca.gov,2023-03-01,2016-01-26
-70,MCFARLAND,ADU@hcd.ca.gov,2023-03-01,2016-01-26
-71,RIDGECREST,Helen.Eldred@hcd.ca.gov,2024-01-17,2015-07-13
-72,SHAFTER,paul.mcdougall@hcd.ca.gov,2023-08-14,2024-04-16
-73,TEHACHAPI,Shawn.Danino@hcd.ca.gov,2024-03-01,2015-12-30
-74,WASCO,shawn.danino@hcd.ca.gov,2023-10-24,2015-07-30
-75,BRADBURY,Claire.Sullivan-Halpern@hcd.ca.gov,2022-09-01,2024-01-03
-76,COMMERCE,jose.jauregui@hcd.ca.gov,2023-10-06,2013-11-27
-77,COMPTON,jose.jauregui@hcd.ca.gov,2024-05-07,2020-08-10
-78,IRWINDALE,brandon.yung@hcd.ca.gov,2023-04-19,2013-09-26
-79,LA HABRA HEIGHTS,fidel.herrera@hcd.ca.gov,2022-06-13,2022-10-06
-80,LA MIRADA,paul.mcdougall@hcd.ca.gov,2022-07-25,2024-04-16
-81,VERNON,colin.cross@hcd.ca.gov,2022-06-15,2023-11-21
-82,CHOWCHILLA,Claire.Sullivan@hcd.ca.gov,2024-02-28,2020-06-11
-83,BELVEDERE,Chelsea.Lee@hcd.ca.gov,2023-05-01,2015-05-18
-84,CORTE MADERA,Fidel.Herrera@hcd.ca.gov,2022-11-21,2023-08-15
-85,FAIRFAX,Melinda.Coy@hcd.ca.gov,2023-08-11,2024-04-08
-86,LARKSPUR,Jose.Ayala@hcd.ca.gov,2023-05-01,2015-05-28
-87,MARIN COUNTY,Reid.Miller@hcd.ca.gov,2022-10-17,2023-06-19
-88,MILL VALLEY,Reid.Miller@hcd.ca.gov,2022-11-21,2023-12-22
-89,NOVATO,Irvin.Saldana@hcd.ca.gov,2023-04-12,2015-01-23
-90,ROSS,jose.jauregui@hcd.ca.gov,2023-03-13,2024-06-04
-91,SAN ANSELMO,Fidel.Herrera@hcd.ca.gov,2023-04-26,2024-03-28
-92,SAN RAFAEL,Chelsea.Lee@hcd.ca.gov,2023-03-20,2023-06-22
-93,SAUSALITO,Chelsea.Lee@hcd.ca.gov,2023-01-26,2023-04-28
-94,SAUSALITO,PublicLands@hcd.ca.gov,2023-01-26,2023-04-28
-95,TIBURON,brandon.yung@hcd.ca.gov,2022-12-23,2023-10-18
-96,CARMEL,pierce.abrahamson@hcd.ca.gov,2023-11-01,2024-04-25
-97,DEL REY OAKS,Clare.Blackwell@hcd.ca.gov,2023-10-18,2024-02-12
-98,GONZALES,Clare.Blackwell@hcd.ca.gov,2024-05-29,2015-12-29
-99,GREENFIELD,Clare.Blackwell@hcd.ca.gov,2024-01-18,2016-04-25
-100,KING CITY,Mao.Lee@hcd.ca.gov,2024-03-15,2017-01-09
-101,MARINA,Mao.Lee@hcd.ca.gov,2023-10-26,2024-04-11
-102,MONTEREY,Mao.Lee@hcd.ca.gov,2023-12-22,2017-10-05
-103,PACIFIC GROVE,Mao.Lee@hcd.ca.gov,2024-01-31,2016-04-25
-104,SALINAS,Anthony.Errichetto@hcd.ca.gov,2023-10-04,2024-02-08
-105,SAND CITY,Mao.Lee@hcd.ca.gov,2023-12-21,2016-06-09
-106,SEASIDE,Clare.Blackwell@hcd.ca.gov,2023-10-19,2024-03-27
-107,SOLEDAD,Anthony.Errichetto@hcd.ca.gov,2024-03-07,2020-02-25
-108,AMERICAN CANYON,Gianna.Marasovich@hcd.ca.gov,2023-02-10,2023-06-30
-109,CALISTOGA,Chelsea.Lee@hcd.ca.gov,2022-08-24,2023-10-09
-110,NAPA,Chelsea.Lee@hcd.ca.gov,2023-05-17,2023-12-11
-111,SAINT HELENA,Jamillah.Williams@hcd.ca.gov,2022-12-06,2023-09-25
-112,YOUNTVILLE,Chelsea.Lee@hcd.ca.gov,2022-11-18,2023-04-24
-113,BLYTHE,Mashal.Ayobi@hcd.ca.gov,2022-10-31,2014-02-24
-114,SAN JUAN BAUTISTA,Jose.Ayala@hcd.ca.gov,2023-12-20,2020-01-28
-115,ADELANTO,Clare.Blackwell@hcd.ca.gov,2023-05-08,2014-03-05
-116,SAN BERNARDINO,Reid.Miller@hcd.ca.gov,2023-10-02,2024-05-10
-117,SAN FRANCISCO,sohab.mehmood@hcd.ca.gov,2022-08-08,2023-02-01
-118,SAN FRANCISCO,adu@hcd.ca.gov,2022-08-08,2023-02-01
-119,ESCALON,Joanna.Chang@hcd.ca.gov,2024-03-28,2020-01-28
-120,LODI,sayed.murad@hcd.ca.gov,2024-01-29,2024-04-11
-121,TRACY,sayed.murad@hcd.ca.gov,2024-02-20,2016-07-07
-122,ATHERTON,Connor.Finney@hcd.ca.gov,2022-10-31,2023-04-04
-123,BELMONT,Molivann.Phlong@hcd.ca.gov,2022-11-22,2023-04-03
-124,BRISBANE,Molivann.Phlong@hcd.ca.gov,2023-01-04,2023-05-25
-125,BURLINGAME,Anthony.Errichetto@hcd.ca.gov,2023-05-18,2024-03-20
-126,COLMA,Molivann.Phlong@hcd.ca.gov,2022-09-14,2024-03-11
-127,DALY CITY,sohab.mehmood@hcd.ca.gov,2023-09-26,2004-12-03
-128,EAST PALO ALTO,Anthony.Errichetto@hcd.ca.gov,2023-01-19,2024-04-29
-129,FOSTER CITY,Anthony.Errichetto@hcd.ca.gov,2022-10-03,2024-04-18
-130,HALF MOON BAY,Anthony.Errichetto@hcd.ca.gov,2023-08-30,2015-10-05
-131,MENLO PARK,Hillary.Prasad@hcd.ca.gov,2022-10-21,2024-03-20
-132,MILLBRAE,Hillary.Prasad@hcd.ca.gov,2023-01-24,2024-03-01
-133,PACIFICA,sohab.mehmood@hcd.ca.gov,2023-08-08,2024-03-29
-134,PORTOLA VALLEY,Molivann.Phlong@hcd.ca.gov,2022-11-09,2024-01-30
-135,REDWOOD CITY,Hillary.Prasad@hcd.ca.gov,2022-07-08,2023-03-27
-136,SAN BRUNO,Hillary.Prasad@hcd.ca.gov,2022-10-06,2023-03-29
-137,SAN CARLOS,Hillary.Prasad@hcd.ca.gov,2023-01-06,2024-04-25
-138,SAN MATEO,Hillary.Prasad@hcd.ca.gov,2022-09-28,2023-03-27
-139,SAN MATEO COUNTY,Anthony.Errichetto@hcd.ca.gov,2023-04-20,2015-05-11
-140,SOUTH SAN FRANCISCO,Molivann.Phlong@hcd.ca.gov,2022-12-07,2023-11-20
-141,WOODSIDE,Molivann.Phlong@hcd.ca.gov,2022-10-14,2015-04-09
-142,BUELLTON,Gianna.Marasovich@hcd.ca.gov,2023-01-03,2023-08-01
-143,CARPINTERIA,Reid.Miller@hcd.ca.gov,2023-02-21,2024-03-21
-144,GOLETA,tristan.lanza@hcd.ca.gov,2022-09-27,2024-02-05
-145,GUADALUPE,Claire.Sullivan@hcd.ca.gov,2023-10-19,2019-05-16
-146,LOMPOC,Clare.Blackwell@hcd.ca.gov,2023-08-09,2024-01-29
-147,SANTA BARBARA,Hillary.Prasad@hcd.ca.gov,2022-11-16,2024-02-13
-148,SANTA BARBARA COUNTY,paul.mcdougall@hcd.ca.gov,2023-06-30,2024-01-22
-149,SANTA MARIA,Clare.Blackwell@hcd.ca.gov,2023-05-03,2024-01-02
-150,SOLVANG,tristan.lanza@hcd.ca.gov,2023-05-16,2024-02-12
-151,CAMPBELL,shawn.danino@hcd.ca.gov,2022-11-03,2023-05-30
-152,CUPERTINO,jose.jauregui@hcd.ca.gov,2023-05-04,2015-05-29
-153,GILROY,Connor.Finney@hcd.ca.gov,2023-01-27,2023-08-21
-154,LOS ALTOS,Anthony.errichetto@hcd.ca.gov,2022-11-10,2023-09-05
-155,LOS ALTOS HILLS,Reid.Miller@hcd.ca.gov,2023-01-25,2023-05-30
-156,LOS GATOS,jose.jauregui@hcd.ca.gov,2023-01-12,2023-04-14
-157,MILPITAS,Shawn.Danino@hcd.ca.gov,2023-01-10,2023-05-17
-158,MONTE SERENO,Mashal.Ayobi@hcd.ca.gov,2023-01-09,2023-03-31
-159,MOUNTAIN VIEW,Reid.Miller@hcd.ca.gov,2022-09-29,2023-05-26
-160,PALO ALTO,Irvin.Saldana@hcd.ca.gov,2023-03-23,2023-08-03
-161,SAN JOSE,Chelsea.Lee@hcd.ca.gov,2022-12-15,2024-01-29
-162,SANTA CLARA,jose.jauregui@hcd.ca.gov,2022-11-18,2024-05-31
-163,SANTA CLARA COUNTY,jose.jauregui@hcd.ca.gov,2023-08-02,2014-07-25
-164,SARATOGA,Hillary.Prasad@hcd.ca.gov,2022-10-26,2024-05-21
-165,SUNNYVALE,shawn.danino@hcd.ca.gov,2022-10-06,2024-03-06
-166,CAPITOLA,Jose.Ayala@hcd.ca.gov,2023-10-03,2024-01-12
-167,SANTA CRUZ,jose.jauregui@hcd.ca.gov,2023-08-08,2023-12-20
-168,SANTA CRUZ COUNTY,Anthony.Errichetto@hcd.ca.gov,2023-10-23,2024-04-23
-169,SCOTTS VALLEY,Clare.Blackwell@hcd.ca.gov,2023-10-03,2024-04-02
-170,WATSONVILLE,Mao.Lee@hcd.ca.gov,2024-05-10,2016-09-14
-171,DORRIS,jed.hackett@hcd.ca.gov,2024-01-29,2014-10-01
-172,DUNSMUIR,Shawn.Danino@hcd.ca.gov,2024-03-04,2010-08-05
-173,ETNA,jed.hackett@hcd.ca.gov,2024-02-07,2024-05-31
-174,FORT JONES,andrea.grant@hcd.ca.gov,2024-03-06,2020-03-10
-175,MONTAGUE,sayed.murad@hcd.ca.gov,2024-02-13,2014-06-26
-176,MOUNT SHASTA,tristan.lanza@hcd.ca.gov,2023-09-05,2024-03-12
-177,SISKIYOU COUNTY,Claire.Sullivan-Halpern@hcd.ca.gov,2023-03-21,2024-01-08
-178,TULELAKE,andrea.grant@hcd.ca.gov,2024-01-31,2015-08-25
-179,WEED,Weston.Starbird@hcd.ca.gov,2023-12-05,2015-04-30
-180,YREKA,Anthony.Errichetto@hcd.ca.gov,2022-12-12,2023-09-01
-181,BENICIA,Irvin.Saldana@hcd.ca.gov,2022-11-22,2024-04-04
-182,DIXON,Irvin.Saldana@hcd.ca.gov,2022-12-21,2023-05-24
-183,FAIRFIELD,Irvin.Saldana@hcd.ca.gov,2023-01-03,2023-04-10
-184,RIO VISTA,Irvin.Saldana@hcd.ca.gov,2023-03-09,2023-09-01
-185,SOLANO COUNTY,Irvin.Saldana@hcd.ca.gov,2023-04-06,2024-04-09
-186,SUISUN CITY,Irvin.Saldana@hcd.ca.gov,2022-12-28,2023-05-23
-187,VACAVILLE,Irvin.Saldana@hcd.ca.gov,2023-01-05,2023-09-18
-188,VALLEJO,Irvin.Saldana@hcd.ca.gov,2024-01-31,2015-05-28
-189,CLOVERDALE,Fidel.Herrera@hcd.ca.gov,2023-03-09,2023-09-26
-190,COTATI,tristan.lanza@hcd.ca.gov,2023-02-16,2023-06-02
-191,HEALDSBURG,Mashal.Ayobi@hcd.ca.gov,2023-02-13,2023-06-29
-192,PETALUMA,Jose.Ayala@hcd.ca.gov,2023-01-27,2023-05-18
-193,ROHNERT PARK,tristan.lanza@hcd.ca.gov,2022-12-19,2023-03-20
-194,SANTA ROSA,Fidel.Herrera@hcd.ca.gov,2022-11-01,2023-04-07
-195,SEBASTOPOL,Fidel.Herrera@hcd.ca.gov,2022-12-01,2023-03-07
-196,SONOMA,Fidel.Herrera@hcd.ca.gov,2023-01-24,2023-04-13
-197,SONOMA COUNTY,Mashal.Ayobi@hcd.ca.gov,2023-03-30,2023-10-26
-198,WINDSOR,tristan.lanza@hcd.ca.gov,2023-01-31,2023-08-31
-199,CERES,Emily.Hovda@hcd.ca.gov,2023-12-14,2016-03-15
-200,MODESTO,Joanna.Chang@hcd.ca.gov,2023-10-30,2024-04-10
-201,NEWMAN,Emily.Hovda@hcd.ca.gov,2024-01-23,2016-08-04
-202,STANISLAUS COUNTY,Emily.Hovda@hcd.ca.gov,2024-02-14,2016-04-27
-203,TULARE COUNTY,jed.hackett@hcd.ca.gov,2023-11-22,2024-05-13
-204,VISALIA,Irvin.Saldana@hcd.ca.gov,2023-10-23,2024-02-26
-205,TUOLUMNE COUNTY,Emily.Hovda@hcd.ca.gov,2024-03-18,2019-10-14
-206,FILLMORE,Molivann.Phlong@hcd.ca.gov,2023-02-17,2019-07-08
+,JURISDICTION,EMAIL,ID_DATE,AD_DATE,COUNTY,pageCount,checkP1,checkP2,checkP3
+0,ALAMEDA,Halpern@hcd.ca.gov,2022-08-25,2022-12-20,ALAMEDA,2,False,False,False
+1,ALAMEDA COUNTY,Jose.Ayala@hcd.ca.gov,2024-01-04,2015-05-21,ALAMEDA,11,True,False,False
+2,ALBANY,Claire.Sullivan-Halpern@hcd.ca.gov,2022-12-09,2023-09-08,ALAMEDA,8,True,False,False
+3,BERKELEY,Jose.Ayala@hcd.ca.gov,2022-11-08,2023-02-28,ALAMEDA,6,True,False,False
+4,DUBLIN,Jose.Ayala@hcd.ca.gov,2022-08-29,2024-01-19,ALAMEDA,12,True,False,False
+5,EMERYVILLE,Claire.Sullivan-Halpern@hcd.ca.gov,2022-10-31,2023-02-03,ALAMEDA,2,False,False,False
+6,FREMONT,Shawn.Danino@hcd.ca.gov,2022-11-21,2023-03-22,ALAMEDA,5,False,False,True
+7,HAYWARD,Halpern@hcd.ca.gov,2022-11-28,2023-07-27,ALAMEDA,9,True,False,False
+8,LIVERMORE,shawn.danino@hcd.ca.gov,2022-10-20,2023-03-24,ALAMEDA,8,True,False,False
+9,NEWARK,shawn.danino@hcd.ca.gov,2023-07-12,2023-12-21,ALAMEDA,10,True,False,False
+10,OAKLAND,shawn.danino@hcd.ca.gov,2022-09-28,2023-02-17,ALAMEDA,12,True,False,False
+11,PIEDMONT,shawn.danino@hcd.ca.gov,2023-02-16,2023-11-09,ALAMEDA,12,True,False,False
+12,PLEASANTON,Jose.Ayala@hcd.ca.gov,2022-11-14,2023-08-25,ALAMEDA,9,True,False,False
+13,SAN LEANDRO,Claire.Sullivan-Halpern@hcd.ca.gov,2022-11-14,2023-02-02,ALAMEDA,5,False,False,True
+14,UNION CITY,shawn.danino@hcd.ca.gov,2022-10-26,2023-05-30,ALAMEDA,10,True,False,False
+15,ALPINE COUNTY,jose.jauregui@hcd.ca.gov,2022-11-02,2017-04-05,ALPINE,5,True,False,False
+16,AMADOR CITY,Jose.Ayala@hcd.ca.gov,2023-05-08,2023-05-08,AMADOR,16,True,False,False
+17,AMADOR COUNTY,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-02-20,AMADOR,16,True,False,False
+18,IONE,Jose.Ayala@hcd.ca.gov,2023-05-08,2015-06-23,AMADOR,16,True,False,False
+19,JACKSON,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-05-20,AMADOR,16,True,False,False
+20,PLYMOUTH,Jose.Ayala@hcd.ca.gov,2023-05-08,2016-05-31,AMADOR,16,True,False,False
+21,SUTTER CREEK,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-03-20,AMADOR,16,True,False,False
+22,BIGGS,Jose.Ayala@hcd.ca.gov,2022-11-18,2014-08-21,BUTTE,8,True,False,False
+23,BUTTE COUNTY,Jose.Ayala@hcd.ca.gov,2022-10-19,2023-02-22,BUTTE,2,False,False,False
+24,CHICO,Jose.Ayala@hcd.ca.gov,2022-12-05,2023-11-06,BUTTE,9,True,False,False
+25,OROVILLE,Jose.Ayala@hcd.ca.gov,2022-10-25,2023-05-03,BUTTE,7,True,False,False
+26,ANTIOCH,Alex.Contreras@hcd.ca.gov,2022-09-29,2023-10-12,CONTRA COSTA,10,True,False,False
+27,BRENTWOOD,Jamillah.Williams@hcd.ca.gov,2023-01-13,2024-04-12,CONTRA COSTA,17,True,False,False
+28,CLAYTON,Jamillah.Williams@hcd.ca.gov,2022-10-12,2024-05-14,CONTRA COSTA,15,True,False,False
+29,CONCORD,Jamillah.Williams@hcd.ca.gov,2022-11-14,2023-10-20,CONTRA COSTA,15,True,False,False
+30,CONTRA COSTA COUNTY,Jamillah.Williams@hcd.ca.gov,2023-04-21,2024-01-22,CONTRA COSTA,9,True,False,False
+31,DANVILLE,Connor.Finney@hcd.ca.gov,2022-11-10,2024-04-09,CONTRA COSTA,13,True,False,False
+32,EL CERRITO,paul.mcdougall@hcd.ca.gov,2022-12-12,2023-08-22,CONTRA COSTA,10,True,False,False
+33,HERCULES,Connor.Finney@hcd.ca.gov,2022-11-07,2015-04-22,CONTRA COSTA,12,True,False,False
+34,LAFAYETTE,Connor.Finney@hcd.ca.gov,2022-09-29,2023-03-29,CONTRA COSTA,13,True,False,False
+35,MORAGA,Jamillah.Williams@hcd.ca.gov,2022-11-10,2023-09-14,CONTRA COSTA,14,True,False,False
+36,OAKLEY,Melinda.coy@hcd.ca.gov,2022-11-29,2023-05-24,CONTRA COSTA,9,True,False,False
+37,ORINDA,Jamillah.Williams@hcd.ca.gov,2022-08-12,2023-03-30,CONTRA COSTA,9,True,False,False
+38,PINOLE,Connor.Finney@hcd.ca.gov,2023-03-02,2023-07-20,CONTRA COSTA,8,True,False,False
+39,PITTSBURG,Sohab.Mehmood@hcd.ca.gov,2023-08-03,2015-05-18,CONTRA COSTA,11,True,False,False
+40,PLEASANT HILL,Jamillah.Williams@hcd.ca.gov,2023-03-22,2023-11-22,CONTRA COSTA,11,True,False,False
+41,RICHMOND,Connor.Finney@hcd.ca.gov,2023-03-09,2023-10-02,CONTRA COSTA,12,True,False,False
+42,SAN PABLO,jose.jauregui@hcd.ca.gov,2022-12-27,2024-05-20,CONTRA COSTA,13,True,False,False
+43,SAN RAMON,Connor.Finney@hcd.ca.gov,2022-10-18,2023-02-27,CONTRA COSTA,10,True,False,False
+44,WALNUT CREEK,Connor.Finney@hcd.ca.gov,2022-12-05,2023-10-24,CONTRA COSTA,9,True,False,False
+45,CRESCENT CITY,Connor.Finney@hcd.ca.gov,2023-03-22,2023-11-17,DEL NORTE,12,True,False,False
+46,DEL NORTE COUNTY,Colin.Cross@hcd.ca.gov,2022-07-27,2023-02-24,DEL NORTE,9,True,False,False
+47,CLOVIS,Jose.Ayala@hcd.ca.gov,2023-08-14,2016-07-22,FRESNO,11,True,False,False
+48,COALINGA,brandon.yung@hcd.ca.gov,2023-09-12,2016-07-22,FRESNO,7,True,False,False
+49,FIREBAUGH,Laurissa.wells@hcd.ca.gov,2024-01-29,2016-06-01,FRESNO,7,True,False,False
+50,FOWLER,Laurissa.Wells@hcd.ca.gov,2023-12-26,2016-07-22,FRESNO,8,True,False,False
+51,FRESNO,Jose.Ayala@hcd.ca.gov,2024-02-01,2017-07-07,FRESNO,11,True,False,False
+52,FRESNO COUNTY,Jose.Ayala@hcd.ca.gov,2024-03-15,2016-07-22,FRESNO,8,True,False,False
+53,HURON,Melissa.Vasquez@hcd.ca.gov,2024-01-18,2016-07-22,FRESNO,5,True,False,False
+54,KERMAN,brandon.yung@hcd.ca.gov,2023-09-29,2016-07-25,FRESNO,7,True,False,False
+55,KINGSBURG,brandon.yung@hcd.ca.gov,2023-08-30,2016-07-25,FRESNO,8,True,False,False
+56,MENDOTA,brandon.yung@hcd.ca.gov,2023-12-26,2016-07-22,FRESNO,6,True,False,False
+57,ORANGE COVE,melissa.vasquez@hcd.ca.gov,2023-12-22,2022-09-19,FRESNO,10,True,False,False
+58,PARLIER,Melissa.Vasquez@hcd.ca.gov,2024-02-09,2016-07-22,FRESNO,8,True,False,False
+59,REEDLEY,brandon.yung@hcd.ca.gov,2023-08-23,2024-04-26,FRESNO,7,True,False,False
+60,SAN JOAQUIN,melissa.vasquez@hcd.ca.gov,2023-11-02,2024-05-21,FRESNO,5,True,False,False
+61,SANGER,Laurissa.Wells@hcd.ca.gov,2024-01-04,2016-07-22,FRESNO,6,True,False,False
+62,SELMA,Laurissa.Wells@hcd.ca.gov,2024-03-27,2016-07-22,FRESNO,6,True,False,False
+63,BLUE LAKE,Mashal.Ayobi@hcd.ca.gov,2022-08-29,2010-02-04,HUMBOLDT,12,True,False,False
+64,WESTMORLAND,anthony.errichetto@hcd.ca.gov,2022-12-22,2019-05-24,IMPERIAL,13,False,True,False
+65,ARVIN,jose.jauregui@hcd.ca.gov,2023-10-13,2018-04-16,KERN,14,True,False,False
+66,BAKERSFIELD,shawn.danino@hcd.ca.gov,2023-09-20,2016-02-16,KERN,11,True,False,False
+67,KERN COUNTY,Reid.Miller@hcd.ca.gov,2024-03-06,2023-07-13,KERN,13,True,False,False
+68,MCFARLAND,paul.mcdougall@hcd.ca.gov,2023-03-01,2016-01-26,KERN,12,True,False,False
+69,RIDGECREST,Helen.Eldred@hcd.ca.gov,2024-01-17,2015-07-13,KERN,12,True,False,False
+70,SHAFTER,paul.mcdougall@hcd.ca.gov,2023-08-14,2024-04-16,KERN,12,True,False,False
+71,TEHACHAPI,Shawn.Danino@hcd.ca.gov,2024-03-01,2015-12-30,KERN,8,True,False,False
+72,WASCO,shawn.danino@hcd.ca.gov,2023-10-24,2015-07-30,KERN,10,True,False,False
+73,BRADBURY,Claire.Sullivan-Halpern@hcd.ca.gov,2022-09-01,2024-01-03,LOS ANGELES,11,True,False,False
+74,COMMERCE,jose.jauregui@hcd.ca.gov,2023-10-06,2013-11-27,LOS ANGELES,11,False,False,True
+75,COMPTON,jose.jauregui@hcd.ca.gov,2024-05-07,2020-08-10,LOS ANGELES,9,True,False,False
+76,IRWINDALE,brandon.yung@hcd.ca.gov,2023-04-19,2013-09-26,LOS ANGELES,11,True,False,False
+77,LA HABRA HEIGHTS,fidel.herrera@hcd.ca.gov,2022-06-13,2022-10-06,LOS ANGELES,9,True,False,False
+78,LA MIRADA,paul.mcdougall@hcd.ca.gov,2022-07-25,2024-04-16,LOS ANGELES,15,False,True,False
+79,VERNON,colin.cross@hcd.ca.gov,2022-06-15,2023-11-21,LOS ANGELES,10,True,False,False
+80,CHOWCHILLA,Claire.Sullivan@hcd.ca.gov,2024-02-28,2020-06-11,MADERA,9,True,False,False
+81,BELVEDERE,Chelsea.Lee@hcd.ca.gov,2023-05-01,2015-05-18,MARIN,14,False,True,False
+82,CORTE MADERA,Fidel.Herrera@hcd.ca.gov,2022-11-21,2023-08-15,MARIN,9,True,False,False
+83,FAIRFAX,Melinda.Coy@hcd.ca.gov,2023-08-11,2024-04-08,MARIN,12,True,False,False
+84,LARKSPUR,Jose.Ayala@hcd.ca.gov,2023-05-01,2015-05-28,MARIN,11,True,False,False
+85,MARIN COUNTY,Reid.Miller@hcd.ca.gov,2022-10-17,2023-06-19,MARIN,9,True,False,False
+86,MILL VALLEY,Reid.Miller@hcd.ca.gov,2022-11-21,2023-12-22,MARIN,15,True,False,False
+87,NOVATO,Irvin.Saldana@hcd.ca.gov,2023-04-12,2015-01-23,MARIN,12,True,False,False
+88,ROSS,jose.jauregui@hcd.ca.gov,2023-03-13,2024-06-04,MARIN,15,True,False,False
+89,SAN ANSELMO,Fidel.Herrera@hcd.ca.gov,2023-04-26,2024-03-28,MARIN,10,True,False,False
+90,SAN RAFAEL,Chelsea.Lee@hcd.ca.gov,2023-03-20,2023-06-22,MARIN,12,True,False,False
+91,SAUSALITO,Chelsea.Lee@hcd.ca.gov,2023-01-26,2023-04-28,MARIN,11,True,False,False
+92,TIBURON,brandon.yung@hcd.ca.gov,2022-12-23,2023-10-18,MARIN,12,True,False,False
+93,CARMEL,pierce.abrahamson@hcd.ca.gov,2023-11-01,2024-04-25,MONTEREY,11,True,False,False
+94,DEL REY OAKS,Clare.Blackwell@hcd.ca.gov,2023-10-18,2024-02-12,MONTEREY,13,True,False,False
+95,GONZALES,Clare.Blackwell@hcd.ca.gov,2024-05-29,2015-12-29,MONTEREY,13,True,False,False
+96,GREENFIELD,Clare.Blackwell@hcd.ca.gov,2024-01-18,2016-04-25,MONTEREY,12,True,False,False
+97,KING CITY,Mao.Lee@hcd.ca.gov,2024-03-15,2017-01-09,MONTEREY,14,True,False,False
+98,MARINA,Mao.Lee@hcd.ca.gov,2023-10-26,2024-04-11,MONTEREY,5,True,False,False
+99,MONTEREY,Mao.Lee@hcd.ca.gov,2023-12-22,2017-10-05,MONTEREY,11,True,False,False
+100,PACIFIC GROVE,Mao.Lee@hcd.ca.gov,2024-01-31,2016-04-25,MONTEREY,10,True,False,False
+101,SALINAS,Anthony.Errichetto@hcd.ca.gov,2023-10-04,2024-02-08,MONTEREY,6,True,False,False
+102,SAND CITY,Mao.Lee@hcd.ca.gov,2023-12-21,2016-06-09,MONTEREY,14,True,False,False
+103,SEASIDE,Clare.Blackwell@hcd.ca.gov,2023-10-19,2024-03-27,MONTEREY,7,True,False,False
+104,SOLEDAD,Anthony.Errichetto@hcd.ca.gov,2024-03-07,2020-02-25,MONTEREY,5,True,False,False
+105,AMERICAN CANYON,Gianna.Marasovich@hcd.ca.gov,2023-02-10,2023-06-30,NAPA,6,True,False,False
+106,CALISTOGA,Chelsea.Lee@hcd.ca.gov,2022-08-24,2023-10-09,NAPA,12,True,False,False
+107,NAPA,Chelsea.Lee@hcd.ca.gov,2023-05-17,2023-12-11,NAPA,13,True,False,False
+108,SAINT HELENA,Jamillah.Williams@hcd.ca.gov,2022-12-06,2023-09-25,NAPA,13,True,False,False
+109,YOUNTVILLE,Chelsea.Lee@hcd.ca.gov,2022-11-18,2023-04-24,NAPA,6,True,False,False
+110,BLYTHE,Mashal.Ayobi@hcd.ca.gov,2022-10-31,2014-02-24,RIVERSIDE,11,True,False,False
+111,SAN JUAN BAUTISTA,Jose.Ayala@hcd.ca.gov,2023-12-20,2020-01-28,SAN BENITO,12,True,False,False
+112,ADELANTO,Clare.Blackwell@hcd.ca.gov,2023-05-08,2014-03-05,SAN BERNARDINO,10,False,True,False
+113,SAN BERNARDINO,Reid.Miller@hcd.ca.gov,2023-10-02,2024-05-10,SAN BERNARDINO,14,True,False,False
+114,SAN FRANCISCO,sohab.mehmood@hcd.ca.gov,2022-08-08,2023-02-01,SAN FRANCISCO,17,True,False,False
+115,ESCALON,Joanna.Chang@hcd.ca.gov,2024-03-28,2020-01-28,SAN JOAQUIN,12,True,False,False
+116,LODI,sayed.murad@hcd.ca.gov,2024-01-29,2024-04-11,SAN JOAQUIN,3,False,False,False
+117,TRACY,sayed.murad@hcd.ca.gov,2024-02-20,2016-07-07,SAN JOAQUIN,12,True,False,False
+118,ATHERTON,Connor.Finney@hcd.ca.gov,2022-10-31,2023-04-04,SAN MATEO,16,True,False,False
+119,BELMONT,Molivann.Phlong@hcd.ca.gov,2022-11-22,2023-04-03,SAN MATEO,15,True,False,False
+120,BRISBANE,Molivann.Phlong@hcd.ca.gov,2023-01-04,2023-05-25,SAN MATEO,12,True,False,False
+121,BURLINGAME,Anthony.Errichetto@hcd.ca.gov,2023-05-18,2024-03-20,SAN MATEO,11,True,False,False
+122,COLMA,Molivann.Phlong@hcd.ca.gov,2022-09-14,2024-03-11,SAN MATEO,17,True,False,False
+123,DALY CITY,sohab.mehmood@hcd.ca.gov,2023-09-26,2004-12-03,SAN MATEO,10,True,False,False
+124,EAST PALO ALTO,Anthony.Errichetto@hcd.ca.gov,2023-01-19,2024-04-29,SAN MATEO,16,True,False,False
+125,FOSTER CITY,Anthony.Errichetto@hcd.ca.gov,2022-10-03,2024-04-18,SAN MATEO,15,True,False,False
+126,HALF MOON BAY,Anthony.Errichetto@hcd.ca.gov,2023-08-30,2015-10-05,SAN MATEO,11,True,False,False
+127,MENLO PARK,Hillary.Prasad@hcd.ca.gov,2022-10-21,2024-03-20,SAN MATEO,15,True,False,False
+128,MILLBRAE,Hillary.Prasad@hcd.ca.gov,2023-01-24,2024-03-01,SAN MATEO,13,True,False,False
+129,PACIFICA,sohab.mehmood@hcd.ca.gov,2023-08-08,2024-03-29,SAN MATEO,14,True,False,False
+130,PORTOLA VALLEY,Molivann.Phlong@hcd.ca.gov,2022-11-09,2024-01-30,SAN MATEO,12,True,False,False
+131,REDWOOD CITY,Hillary.Prasad@hcd.ca.gov,2022-07-08,2023-03-27,SAN MATEO,13,True,False,False
+132,SAN BRUNO,Hillary.Prasad@hcd.ca.gov,2022-10-06,2023-03-29,SAN MATEO,15,True,False,False
+133,SAN CARLOS,Hillary.Prasad@hcd.ca.gov,2023-01-06,2024-04-25,SAN MATEO,12,True,False,False
+134,SAN MATEO,Hillary.Prasad@hcd.ca.gov,2022-09-28,2023-03-27,SAN MATEO,16,True,False,False
+135,SAN MATEO COUNTY,Anthony.Errichetto@hcd.ca.gov,2023-04-20,2015-05-11,SAN MATEO,16,True,False,False
+136,SOUTH SAN FRANCISCO,Molivann.Phlong@hcd.ca.gov,2022-12-07,2023-11-20,SAN MATEO,13,True,False,False
+137,WOODSIDE,Molivann.Phlong@hcd.ca.gov,2022-10-14,2015-04-09,SAN MATEO,18,True,False,False
+138,BUELLTON,Gianna.Marasovich@hcd.ca.gov,2023-01-03,2023-08-01,SANTA BARBARA,11,True,False,False
+139,CARPINTERIA,Reid.Miller@hcd.ca.gov,2023-02-21,2024-03-21,SANTA BARBARA,16,True,False,False
+140,GOLETA,tristan.lanza@hcd.ca.gov,2022-09-27,2024-02-05,SANTA BARBARA,11,True,False,False
+141,GUADALUPE,Claire.Sullivan@hcd.ca.gov,2023-10-19,2019-05-16,SANTA BARBARA,11,True,False,False
+142,LOMPOC,Clare.Blackwell@hcd.ca.gov,2023-08-09,2024-01-29,SANTA BARBARA,10,True,False,False
+143,SANTA BARBARA,Hillary.Prasad@hcd.ca.gov,2022-11-16,2024-02-13,SANTA BARBARA,14,True,False,False
+144,SANTA BARBARA COUNTY,paul.mcdougall@hcd.ca.gov,2023-06-30,2024-01-22,SANTA BARBARA,7,True,False,False
+145,SANTA MARIA,Clare.Blackwell@hcd.ca.gov,2023-05-03,2024-01-02,SANTA BARBARA,12,True,False,False
+146,SOLVANG,tristan.lanza@hcd.ca.gov,2023-05-16,2024-02-12,SANTA BARBARA,9,True,False,False
+147,CAMPBELL,shawn.danino@hcd.ca.gov,2022-11-03,2023-05-30,SANTA CLARA,12,True,False,False
+148,CUPERTINO,jose.jauregui@hcd.ca.gov,2023-05-04,2015-05-29,SANTA CLARA,16,False,False,True
+149,GILROY,Connor.Finney@hcd.ca.gov,2023-01-27,2023-08-21,SANTA CLARA,13,True,False,False
+150,LOS ALTOS,Anthony.errichetto@hcd.ca.gov,2022-11-10,2023-09-05,SANTA CLARA,12,True,False,False
+151,LOS ALTOS HILLS,Reid.Miller@hcd.ca.gov,2023-01-25,2023-05-30,SANTA CLARA,11,True,False,False
+152,LOS GATOS,jose.jauregui@hcd.ca.gov,2023-01-12,2023-04-14,SANTA CLARA,13,True,False,False
+153,MILPITAS,Shawn.Danino@hcd.ca.gov,2023-01-10,2023-05-17,SANTA CLARA,5,True,False,False
+154,MONTE SERENO,Mashal.Ayobi@hcd.ca.gov,2023-01-09,2023-03-31,SANTA CLARA,12,True,False,False
+155,MOUNTAIN VIEW,Reid.Miller@hcd.ca.gov,2022-09-29,2023-05-26,SANTA CLARA,15,True,False,False
+156,PALO ALTO,Irvin.Saldana@hcd.ca.gov,2023-03-23,2023-08-03,SANTA CLARA,14,True,False,False
+157,SAN JOSE,Chelsea.Lee@hcd.ca.gov,2022-12-15,2024-01-29,SANTA CLARA,17,True,False,False
+158,SANTA CLARA,jose.jauregui@hcd.ca.gov,2022-11-18,2024-05-31,SANTA CLARA,12,True,False,False
+159,SANTA CLARA COUNTY,jose.jauregui@hcd.ca.gov,2023-08-02,2014-07-25,SANTA CLARA,16,True,False,False
+160,SARATOGA,Hillary.Prasad@hcd.ca.gov,2022-10-26,2024-05-21,SANTA CLARA,14,True,False,False
+161,SUNNYVALE,shawn.danino@hcd.ca.gov,2022-10-06,2024-03-06,SANTA CLARA,10,True,False,False
+162,CAPITOLA,Jose.Ayala@hcd.ca.gov,2023-10-03,2024-01-12,SANTA CRUZ,5,True,False,False
+163,SANTA CRUZ,jose.jauregui@hcd.ca.gov,2023-08-08,2023-12-20,SANTA CRUZ,12,True,False,False
+164,SANTA CRUZ COUNTY,Anthony.Errichetto@hcd.ca.gov,2023-10-23,2024-04-23,SANTA CRUZ,10,True,False,False
+165,SCOTTS VALLEY,Clare.Blackwell@hcd.ca.gov,2023-10-03,2024-04-02,SANTA CRUZ,10,False,True,False
+166,WATSONVILLE,Mao.Lee@hcd.ca.gov,2024-05-10,2016-09-14,SANTA CRUZ,8,True,False,False
+167,DORRIS,jed.hackett@hcd.ca.gov,2024-01-29,2014-10-01,SISKIYOU,7,True,False,False
+168,DUNSMUIR,Shawn.Danino@hcd.ca.gov,2024-03-04,2010-08-05,SISKIYOU,7,True,False,False
+169,ETNA,jed.hackett@hcd.ca.gov,2024-02-07,2024-05-31,SISKIYOU,5,True,False,False
+170,FORT JONES,andrea.grant@hcd.ca.gov,2024-03-06,2020-03-10,SISKIYOU,7,True,False,False
+171,MONTAGUE,sayed.murad@hcd.ca.gov,2024-02-13,2014-06-26,SISKIYOU,7,True,False,False
+172,MOUNT SHASTA,tristan.lanza@hcd.ca.gov,2023-09-05,2024-03-12,SISKIYOU,6,True,False,False
+173,SISKIYOU COUNTY,Claire.Sullivan-Halpern@hcd.ca.gov,2023-03-21,2024-01-08,SISKIYOU,6,True,False,False
+174,TULELAKE,andrea.grant@hcd.ca.gov,2024-01-31,2015-08-25,SISKIYOU,5,True,False,False
+175,WEED,Weston.Starbird@hcd.ca.gov,2023-12-05,2015-04-30,SISKIYOU,8,True,False,False
+176,YREKA,Anthony.Errichetto@hcd.ca.gov,2022-12-12,2023-09-01,SISKIYOU,9,True,False,False
+177,BENICIA,Irvin.Saldana@hcd.ca.gov,2022-11-22,2024-04-04,SOLANO,9,True,False,False
+178,DIXON,Irvin.Saldana@hcd.ca.gov,2022-12-21,2023-05-24,SOLANO,3,True,False,False
+179,FAIRFIELD,Irvin.Saldana@hcd.ca.gov,2023-01-03,2023-04-10,SOLANO,5,False,False,True
+180,RIO VISTA,Irvin.Saldana@hcd.ca.gov,2023-03-09,2023-09-01,SOLANO,5,True,False,False
+181,SOLANO COUNTY,Irvin.Saldana@hcd.ca.gov,2023-04-06,2024-04-09,SOLANO,7,True,False,False
+182,SUISUN CITY,Irvin.Saldana@hcd.ca.gov,2022-12-28,2023-05-23,SOLANO,8,True,False,False
+183,VACAVILLE,Irvin.Saldana@hcd.ca.gov,2023-01-05,2023-09-18,SOLANO,11,True,False,False
+184,VALLEJO,Irvin.Saldana@hcd.ca.gov,2024-01-31,2015-05-28,SOLANO,12,True,False,False
+185,CLOVERDALE,Fidel.Herrera@hcd.ca.gov,2023-03-09,2023-09-26,SONOMA,7,True,False,False
+186,COTATI,tristan.lanza@hcd.ca.gov,2023-02-16,2023-06-02,SONOMA,9,True,False,False
+187,HEALDSBURG,Mashal.Ayobi@hcd.ca.gov,2023-02-13,2023-06-29,SONOMA,8,True,False,False
+188,PETALUMA,Jose.Ayala@hcd.ca.gov,2023-01-27,2023-05-18,SONOMA,7,True,False,False
+189,ROHNERT PARK,tristan.lanza@hcd.ca.gov,2022-12-19,2023-03-20,SONOMA,7,True,False,False
+190,SANTA ROSA,Fidel.Herrera@hcd.ca.gov,2022-11-01,2023-04-07,SONOMA,7,True,False,False
+191,SEBASTOPOL,Fidel.Herrera@hcd.ca.gov,2022-12-01,2023-03-07,SONOMA,7,True,False,False
+192,SONOMA,Fidel.Herrera@hcd.ca.gov,2023-01-24,2023-04-13,SONOMA,9,True,False,False
+193,SONOMA COUNTY,Mashal.Ayobi@hcd.ca.gov,2023-03-30,2023-10-26,SONOMA,10,True,False,False
+194,WINDSOR,tristan.lanza@hcd.ca.gov,2023-01-31,2023-08-31,SONOMA,5,False,False,True
+195,CERES,Emily.Hovda@hcd.ca.gov,2023-12-14,2016-03-15,STANISLAUS,14,True,False,False
+196,MODESTO,Joanna.Chang@hcd.ca.gov,2023-10-30,2024-04-10,STANISLAUS,8,True,False,False
+197,NEWMAN,Emily.Hovda@hcd.ca.gov,2024-01-23,2016-08-04,STANISLAUS,14,True,False,False
+198,STANISLAUS COUNTY,Emily.Hovda@hcd.ca.gov,2024-02-14,2016-04-27,STANISLAUS,14,True,False,False
+199,TULARE COUNTY,jed.hackett@hcd.ca.gov,2023-11-22,2024-05-13,TULARE,11,True,False,False
+200,VISALIA,Irvin.Saldana@hcd.ca.gov,2023-10-23,2024-02-26,TULARE,12,True,False,False
+201,TUOLUMNE COUNTY,Emily.Hovda@hcd.ca.gov,2024-03-18,2019-10-14,TUOLUMNE,10,True,False,False
+202,FILLMORE,Molivann.Phlong@hcd.ca.gov,2023-02-17,2019-07-08,VENTURA,14,True,False,False
