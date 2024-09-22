@@ -26,12 +26,35 @@ def download_pdf(lnk):
     sleep(5)
 
     driver.close()
+
+
 def main():
-    df = pd.read_excel('../he-review-letters.xlsx', )
-    df['REVIEWED'] = pd.to_datetime(df['REVIEWED']).dt.date
-    df = df[(df.TYPE == 'INITIAL DRAFT') & (df.REVIEWED > datetime.date(year=2020, month=1, day=1))]
+    df_orig = pd.read_excel('./he-review-letters.xlsx', )
+    df_orig['REVIEWED'] = pd.to_datetime(df_orig['REVIEWED']).dt.date
+    df = df_orig[(df_orig.TYPE == 'INITIAL DRAFT') & (df_orig.REVIEWED > datetime.date(year=2019, month=1, day=1))].copy()
+
+    unlabelled_initial_drafts = df_orig[~df_orig.JURISDICTION.isin(df.JURISDICTION)]
+    unlabelled_initial_drafts = unlabelled_initial_drafts[unlabelled_initial_drafts['TYPE'] == 'DRAFT']
+    unlabelled_initial_drafts = unlabelled_initial_drafts[unlabelled_initial_drafts['PLANNING CYCLE'] == 6]
+
+    # Group by JURISDICTION and return the row with the minimum 'REVIEWED' date
+    unlabelled_initial_drafts = unlabelled_initial_drafts.groupby('JURISDICTION', group_keys=False).apply(
+        lambda g: g.loc[g['REVIEWED'].idxmin()]
+    )
+    df = pd.concat((df, unlabelled_initial_drafts))
+
+    urls = []
+    for link in df['LINK TO REVIEW LETTER'].tolist():
+        if '/' not in link:
+            continue
+        path = './pdfs/' + link.split('/')[-1]
+        if os.path.exists(path):
+            continue
+        else:
+            urls.append(link)
+
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-        futures = [executor.submit(download_pdf, url) for url in df['LINK TO REVIEW LETTER'].tolist()]
+        futures = [executor.submit(download_pdf, url) for url in urls]
         for future in concurrent.futures.as_completed(futures):
             try:
                 future.result()
