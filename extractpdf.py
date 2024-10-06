@@ -19,7 +19,9 @@ class Extract:
         for page_num in range(len(self.document)):
             page = self.document.load_page(page_num)
             text += page.get_text()
-            if page.get_text() == "Sincerely,": #Stop at "Sincerely" line
+            if "Sincerely" in  page.get_text(): #Stop at "Sincerely" line
+                break
+            elif 'Enclosure' in page.get_text(): #Stops before Appendix page
                 break
         return text
     def extract_emails_from_text(self):
@@ -45,7 +47,7 @@ class Extract:
 
 def main():
     pdf_dir = './pdfs/'
-    df = pd.read_excel('he-review-letters.xlsx', )
+    df = pd.read_excel('he-review-letters.xlsx',)
     df['REVIEWED'] = pd.to_datetime(df['REVIEWED']).dt.date
     df1 = df[(df.TYPE == 'INITIAL DRAFT') & (df.REVIEWED >= datetime.date(year=2019, month=1, day=1))]
 
@@ -68,6 +70,7 @@ def main():
                  'pageCount':[],"checkP1":[],'checkP2':[],'checkP3':[], 'checkP4':[]}
     for juris,url,date,county in zip(df1['JURISDICTION'],df1['LINK TO REVIEW LETTER'],df1['REVIEWED'],df1['COUNTY']):
         pdf_path = pdf_dir+ url.split("/")[-1]
+        print(juris,pdf_path)
 
         try:
             ex=Extract(pdf_path)
@@ -79,8 +82,10 @@ def main():
         adopted_date = df2[df2.JURISDICTION == juris].REVIEWED
         for email in emails:
 
+
             email_dict['EMAIL'].append(email)
             email_dict['JURISDICTION'].append(juris)
+
             email_dict['ID_DATE'].append(date)
             email_dict['COUNTY'].append(county)
             email_dict['pageCount'].append(ex.pageCount)
@@ -112,7 +117,6 @@ def main():
     email_dict.to_csv('data.csv')
 
 
-    # print(loaded_data)
 
 if __name__ == "__main__":
     main()
