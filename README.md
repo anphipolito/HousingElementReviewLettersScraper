@@ -6,7 +6,6 @@ This project focuses on evaluating housing compliance for various jurisdictions 
 - pdfDownloader.py       # Script for downloading pdfs
 - extractpdf.py          # Script for extracting data from housing plan PDFs
 - DataAnalysis.ipynb     # Jupyter notebook for housing data analysis
-- requirements.txt       # Dependency list if not using poetry
 - README.md              # Instructions for setting up and running the project
 ```
 ## Required Dependencies
