@@ -15,12 +15,12 @@
 13,SAN LEANDRO,Claire.Sullivan-Halpern@hcd.ca.gov,2022-11-14,2023-02-02,ALAMEDA,5,False,False,True,False
 14,UNION CITY,shawn.danino@hcd.ca.gov,2022-10-26,2023-05-30,ALAMEDA,10,True,False,False,False
 15,ALPINE COUNTY,jose.jauregui@hcd.ca.gov,2022-11-02,2017-04-05,ALPINE,5,True,False,False,False
-16,AMADOR CITY,Jose.Ayala@hcd.ca.gov,2023-05-08,2023-05-08,AMADOR,16,True,False,False,True
-17,AMADOR COUNTY,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-02-20,AMADOR,16,True,False,False,True
-18,IONE,Jose.Ayala@hcd.ca.gov,2023-05-08,2015-06-23,AMADOR,16,True,False,False,True
-19,JACKSON,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-05-20,AMADOR,16,True,False,False,True
-20,PLYMOUTH,Jose.Ayala@hcd.ca.gov,2023-05-08,2016-05-31,AMADOR,16,True,False,False,True
-21,SUTTER CREEK,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-03-20,AMADOR,16,True,False,False,True
+16,AMADOR CITY,Jose.Ayala@hcd.ca.gov,2023-05-08,2023-05-08,AMADOR,16,True,False,False,False
+17,AMADOR COUNTY,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-02-20,AMADOR,16,True,False,False,False
+18,IONE,Jose.Ayala@hcd.ca.gov,2023-05-08,2015-06-23,AMADOR,16,True,False,False,False
+19,JACKSON,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-05-20,AMADOR,16,True,False,False,False
+20,PLYMOUTH,Jose.Ayala@hcd.ca.gov,2023-05-08,2016-05-31,AMADOR,16,True,False,False,False
+21,SUTTER CREEK,Jose.Ayala@hcd.ca.gov,2023-05-08,2024-03-20,AMADOR,16,True,False,False,False
 22,BIGGS,Jose.Ayala@hcd.ca.gov,2022-11-18,2014-08-21,BUTTE,8,True,False,False,False
 23,BUTTE COUNTY,Jose.Ayala@hcd.ca.gov,2022-10-19,2023-02-22,BUTTE,2,False,False,False,True
 24,CHICO,Jose.Ayala@hcd.ca.gov,2022-12-05,2023-11-06,BUTTE,9,True,False,False,False
@@ -302,7 +302,7 @@
 300,LA CANADA FLINTRIDGE,john.buettner@hcd.ca.gov,2021-12-03,2023-11-17,LOS ANGELES,11,True,False,False,False
 301,LA HABRA,Mashal.Ayobi@hcd.ca.gov,2021-11-01,2023-04-21,ORANGE,15,True,False,False,False
 302,LA MESA,Jose.Ayala@hcd.ca.gov,2021-04-16,2023-07-06,SAN DIEGO,4,True,False,False,False
-303,LA PALMA,Chelsea.Lee@hcd.ca.gov,2021-08-20,2024-05-20,ORANGE,12,True,False,True,False
+303,LA PALMA,Chelsea.Lee@hcd.ca.gov,2021-08-20,2024-05-20,ORANGE,12,True,False,False,False
 304,LA PUENTE,Sohab.mehmood@hcd.ca.gov,2022-01-21,2022-10-07,LOS ANGELES,12,True,False,False,False
 305,LA QUINTA,tristan.lanza@hcd.ca.gov,2021-07-09,2024-03-26,RIVERSIDE,12,True,False,False,False
 306,LA VERNE,Irvin.Saldana@hcd.ca.gov,2022-02-01,2022-12-21,LOS ANGELES,13,True,False,False,False
@@ -332,7 +332,7 @@
 330,MANHATTAN BEACH,Divya.Sen@hcd.ca.gov,2021-12-14,2023-07-27,LOS ANGELES,11,True,False,False,False
 331,MARICOPA,Chelsea.lee@hcd.ca.gov,2021-11-30,2022-03-29,KERN,2,False,False,False,True
 332,MARYSVILLE,Irvin.Saldana@hcd.ca.gov,2021-05-12,2022-02-02,YUBA,2,False,False,False,True
-333,MAYWOOD,colin.cross@hcd.ca.gov,2022-01-10,2023-12-20,LOS ANGELES,12,True,True,False,False
+333,MAYWOOD,colin.cross@hcd.ca.gov,2022-01-10,2023-12-20,LOS ANGELES,12,True,False,False,False
 334,MENIFEE,tristan.lanza@hcd.ca.gov,2021-08-20,2023-04-05,RIVERSIDE,11,True,False,False,False
 335,MISSION VIEJO,colin.cross@hcd.ca.gov,2021-09-07,2024-02-08,ORANGE,12,True,False,False,False
 336,MONROVIA,Mashal.Ayobi@hcd.ca.gov,2021-08-20,2022-12-29,LOS ANGELES,9,True,False,False,False

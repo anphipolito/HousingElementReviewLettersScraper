@@ -1,10 +1,7 @@
 import pandas as pd
-import os
 import fitz  #
 import re
 import datetime
-import json
-from pdfDownloader import download_pdf
 import pymupdf
 class Extract:
     def __init__(self,pdf_path):
